@@ -1,0 +1,18 @@
+# Generated from OC_Rules/sbs_au.list
+# REPO: https://github.com/xiye-go/xy-rules
+# SOURCE: https://github.com/xiye-go/xy-rules/blob/main/OC_Rules/sbs_au.list
+# TOTAL: 12
+
+payload:
+  - '*nr-data.net*'
+  - '*sbs-hls*'
+  - '*sbs-live*'
+  - '*sbs-podcast*'
+  - '*sbs-vod*'
+  - '+.bitmovin.com'
+  - '+.conviva.com'
+  - '+.demdex.net'
+  - '+.oztam.com.au'
+  - '+.sbs.com.au'
+  - '+.sbsod.com'
+  - '+.tremorhub.com'
