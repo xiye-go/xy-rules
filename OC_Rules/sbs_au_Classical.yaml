@@ -1,0 +1,19 @@
+# Generated from OC_Rules/sbs_au.list
+# REPO: https://github.com/xiye-go/xy-rules
+# SOURCE: https://github.com/xiye-go/xy-rules/blob/main/OC_Rules/sbs_au.list
+# TOTAL: 12
+
+payload:
+  - DOMAIN-KEYWORD,nr-data.net
+  - DOMAIN-KEYWORD,sbs-hls
+  - DOMAIN-KEYWORD,sbs-live
+  - DOMAIN-KEYWORD,sbs-podcast
+  - DOMAIN-KEYWORD,sbs-vod
+  - DOMAIN-SUFFIX,bitmovin.com
+  - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,oztam.com.au
+  - DOMAIN-SUFFIX,sbs.com.au
+  - DOMAIN-SUFFIX,sbsod.com
+  - DOMAIN-SUFFIX,tremorhub.com
+
