@@ -46,7 +46,7 @@ jobs:
 
       - name: Generate YAML from LIST files
         run: |
-          FILES=("sbs_au")
+          FILES=("sbs_au" "xy_direct")
 
           for base_name in "${FILES[@]}"; do
             list_file="OC_Rules/${base_name}.list"
